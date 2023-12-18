@@ -73,7 +73,7 @@ a.logo2{
 
 <body>
   <div class="header">
-    <a href="home.php" class="logo"<?php if($active=='home') echo "class='logo2'"; ?>>BloodBank</a>
+    <a href="index.php" class="logo"<?php if($active=='home') echo "class='logo2'"; ?>>BloodBank</a>
     <div class="header-right">
     <a href="about_us.php"  <?php if($active=='about') echo "class='act'"; ?> >Tentang Kami</a>
     <a href="why_donate_blood.php"  <?php if($active=='why') echo "class='act'"; ?>>Kenapa Berdonasi</a>
