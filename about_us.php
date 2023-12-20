@@ -170,19 +170,19 @@ include('head.php');
             <div class="team-profile">
                 <div class="card-profile">
                     <img src="image\ellena.jpeg" alt="Ellena">
-                    <h2>201401141</h2>
+                    <h2>201401004</h2>
                     <h1>Ellena Amanda</h1>
                 </div>
 
                 <div class="card-profile">
                     <img src="image\jordan.jpeg" alt="Jordan">
-                    <h2>201401141</h2>
+                    <h2>201401006</h2>
                     <h1>Jordan G. G. Sinuhaji</h1>
                 </div>
                 
                 <div class="card-profile">
                     <img src="image\darmawan.jpeg" alt="Darmawan">
-                    <h2>201401141</h2>
+                    <h2>201401030</h2>
                     <h1>Darmawan Syah Putra</h1>
                 </div>
 
