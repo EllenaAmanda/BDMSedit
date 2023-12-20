@@ -177,7 +177,7 @@ include('head.php');
                 <div class="card-profile">
                     <img src="image\jordan.jpeg" alt="Jordan">
                     <h2>201401006</h2>
-                    <h1>Jordan G. G. Sinuhaji</h1>
+                    <h1>Jordan G. Sinuhaji</h1>
                 </div>
                 
                 <div class="card-profile">
